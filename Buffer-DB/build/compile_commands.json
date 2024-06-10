@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/kenny/Desktop/sgbdNewBorn/Buffer-DB/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\main.cpp",
+  "file": "C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/kenny/Desktop/sgbdNewBorn/Buffer-DB/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\src\\Page.cpp.obj -c C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Page.cpp",
+  "file": "C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Page.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Page.cpp.obj"
+},
+{
+  "directory": "C:/Users/kenny/Desktop/sgbdNewBorn/Buffer-DB/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\src\\BufferManager.cpp.obj -c C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\BufferManager.cpp",
+  "file": "C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\BufferManager.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\BufferManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/kenny/Desktop/sgbdNewBorn/Buffer-DB/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\src\\Buffer_Pool.cpp.obj -c C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Buffer_Pool.cpp",
+  "file": "C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Buffer_Pool.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Buffer_Pool.cpp.obj"
+},
+{
+  "directory": "C:/Users/kenny/Desktop/sgbdNewBorn/Buffer-DB/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\src\\Frame.cpp.obj -c C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Frame.cpp",
+  "file": "C:\\Users\\kenny\\Desktop\\sgbdNewBorn\\Buffer-DB\\src\\Frame.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Frame.cpp.obj"
+}
+]
